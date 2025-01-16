@@ -18,7 +18,7 @@ I'm a **Solutions Architect** and **Backend Developer** based in **Manila, Phili
 
 ### Tools & Platforms
 
-- 🛠️ **Development Tools**: GitHub, VSCode, IntelliJ IDEA, GitHub Copilot, ChatGPT, SourceTree, PlantUML
+- 🛠️ **Development Tools**: GitHub, VSCode, IntelliJ IDEA, GitHub Copilot, ChatGPT, SourceTree, PlantUML, iTerm2, zsh
 - ☁️ **Cloud Platforms**: AWS, Kubernetes
 - 📊 **Monitoring & Observability**: Grafana, Kibana, AWS CloudWatch
 - 🔧 **Pipeline as Code**: GitLab CI/CD, BitBucket CI/CD, GitHub Actions, GoCD, ArgoCD
@@ -60,3 +60,9 @@ I'm a **Solutions Architect** and **Backend Developer** based in **Manila, Phili
   <img src="images/ckad-certified-kubernetes-application-developer.png" alt="CKAD" width="80px" height="80px" />
   <img src="images/kcna-kubernetes-and-cloud-native-associate.png" alt="KCNA" width="80px" height="80px" />
 </div>
+
+## 🎖️ Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollabalo&theme=transparent)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=hollabalo&theme=transparent&hide_border=true)
