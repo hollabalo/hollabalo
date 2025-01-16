@@ -22,6 +22,7 @@ I'm a **Solutions Architect** and **Backend Developer** based in **Manila, Phili
 - ☁️ **Cloud Platforms**: AWS, Kubernetes
 - 📊 **Monitoring & Observability**: Grafana, Kibana, AWS CloudWatch
 - 🔧 **Pipeline as Code**: GitLab CI/CD, BitBucket CI/CD, GitHub Actions, GoCD, ArgoCD
+- 💰 **Payment Processing**: Stripe
 
 ### Programming
 
